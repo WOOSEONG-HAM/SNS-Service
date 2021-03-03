@@ -31,7 +31,7 @@
     "passport-kakao": "0.0.5",
     "passport-local": "^1.0.0",
     "passport-oauth2": "^1.5.0",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "sequelize": "^5.8.6"
   }
 }
